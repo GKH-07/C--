@@ -1,0 +1,1 @@
+{"name":"Local: FindingInMatrix","url":"d:\\C++\\FindingInMatrix.cpp","tests":[{"id":1625380797762,"input":"3 3 11\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\FindingInMatrix.cpp","group":"local","local":true}

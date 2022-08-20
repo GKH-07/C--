@@ -1,0 +1,1 @@
+{"name":"Local: redundent_parenthesis","url":"d:\\C++\\stack and queue\\stack\\redundent_parenthesis.cpp","tests":[{"id":1641036611315,"input":"((a+B))","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\stack and queue\\stack\\redundent_parenthesis.cpp","group":"local","local":true}

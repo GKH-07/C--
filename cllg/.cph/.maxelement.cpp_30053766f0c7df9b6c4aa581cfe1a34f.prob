@@ -1,0 +1,1 @@
+{"name":"Local: maxelement","url":"d:\\C++\\cllg\\maxelement.cpp","tests":[{"id":1657265359954,"input":"5\n1 2 3 4 5","output":"maximum : 5\nminimum : 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\cllg\\maxelement.cpp","group":"local","local":true}
